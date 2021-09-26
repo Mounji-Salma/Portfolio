@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Projets</title>
+    <link>https://mounji-salma.github.io/Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Projets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://mounji-salma.github.io/Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyse et prédiction des frais d&#39;assurance médicale</title>
+      <link>https://mounji-salma.github.io/Portfolio/post/projet2/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://mounji-salma.github.io/Portfolio/post/projet2/</guid>
+      <description>Analyse et modélisation des facteurs qui influencent les frais médicaux des assurés afin d&amp;rsquo;optimiser le profit de la compagnie d&amp;rsquo;assurance.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning appliqué au marketing bancaire</title>
+      <link>https://mounji-salma.github.io/Portfolio/post/projet3/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://mounji-salma.github.io/Portfolio/post/projet3/</guid>
+      <description>Analyse d’une compagne marketing d’une banque et prédiction de l&amp;rsquo;abonnement des clients à un dépot à terme.</description>
+    </item>
+    
+  </channel>
+</rss>
